@@ -1,9 +1,11 @@
 # SnakeGame in Java
 
-<div style="display: flex;">
+<p>
+  <a href="#">
+    <img alt="Game" src="./images/game.jpg" width="320px" />
+  </a>
 
-![Game](./images/game.jpg)
-
-![Game](./images/game-over.jpg)
-
-</div>
+  <a href="#">
+    <img alt="Game" src="./images/game-over.jpg" width="320px" />
+  </a>
+</p>
